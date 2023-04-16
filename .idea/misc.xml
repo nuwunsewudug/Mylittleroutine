@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/choi/AndroidStudioProjects/RealToDoApp/app/src/main/res/drawable/green_round_layout.xml" value="0.3572916666666667" />
+        <entry key="..\:/Users/choi/AndroidStudioProjects/RealToDoApp/app/src/main/res/drawable/round_layout.xml" value="0.3776041666666667" />
+        <entry key="..\:/Users/choi/AndroidStudioProjects/RealToDoApp/app/src/main/res/layout/activity_main.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/choi/AndroidStudioProjects/RealToDoApp/app/src/main/res/layout/dialog_add_todo.xml" value="0.3614583333333333" />
+        <entry key="..\:/Users/choi/AndroidStudioProjects/RealToDoApp/app/src/main/res/layout/dialog_default.xml" value="0.3614583333333333" />
+        <entry key="..\:/Users/choi/AndroidStudioProjects/RealToDoApp/app/src/main/res/layout/fragment_main.xml" value="0.22" />
+        <entry key="..\:/Users/choi/AndroidStudioProjects/RealToDoApp/app/src/main/res/layout/item_date_info.xml" value="0.3614583333333333" />
+        <entry key="..\:/Users/choi/AndroidStudioProjects/RealToDoApp/app/src/main/res/layout/item_todo.xml" value="0.3614583333333333" />
+        <entry key="..\:/Users/choi/AndroidStudioProjects/RealToDoApp/app/src/main/res/layout/item_todo_package.xml" value="0.3614583333333333" />
+        <entry key="..\:/Users/choi/AndroidStudioProjects/RealToDoApp/app/src/main/res/layout/list_todo.xml" value="0.36277173913043476" />
+        <entry key="..\:/Users/choi/AndroidStudioProjects/RealToDoApp/app/src/main/res/layout/list_todo_package.xml" value="0.36277173913043476" />
+        <entry key="..\:/Users/choi/AndroidStudioProjects/project_android/app/src/main/res/drawable/green_round_layout.xml" value="0.38229166666666664" />
+        <entry key="..\:/Users/choi/AndroidStudioProjects/project_android/app/src/main/res/drawable/round_layout.xml" value="0.3609375" />
+        <entry key="..\:/Users/choi/AndroidStudioProjects/project_android/app/src/main/res/drawable/round_stroke_black_layout.xml" value="0.38229166666666664" />
+        <entry key="..\:/Users/choi/AndroidStudioProjects/project_android/app/src/main/res/drawable/round_translucent_layout.xml" value="0.3609375" />
+        <entry key="..\:/Users/choi/AndroidStudioProjects/project_android/app/src/main/res/layout/activity_main.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/choi/AndroidStudioProjects/project_android/app/src/main/res/layout/dialog_add_app_routine.xml" value="0.3614583333333333" />
+        <entry key="..\:/Users/choi/AndroidStudioProjects/project_android/app/src/main/res/layout/dialog_add_todo.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/choi/AndroidStudioProjects/project_android/app/src/main/res/layout/dialog_add_todo_auto_app.xml" value="0.3614583333333333" />
+        <entry key="..\:/Users/choi/AndroidStudioProjects/project_android/app/src/main/res/layout/dialog_add_todo_auto_location.xml" value="0.3614583333333333" />
+        <entry key="..\:/Users/choi/AndroidStudioProjects/project_android/app/src/main/res/layout/dialog_add_todo_not_auto.xml" value="0.3614583333333333" />
+        <entry key="..\:/Users/choi/AndroidStudioProjects/project_android/app/src/main/res/layout/dialog_app_list.xml" value="0.35052083333333334" />
+        <entry key="..\:/Users/choi/AndroidStudioProjects/project_android/app/src/main/res/layout/dialog_app_use_piechart.xml" value="0.215625" />
+        <entry key="..\:/Users/choi/AndroidStudioProjects/project_android/app/src/main/res/layout/dialog_default.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/choi/AndroidStudioProjects/project_android/app/src/main/res/layout/dialog_graph.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/choi/AndroidStudioProjects/project_android/app/src/main/res/layout/dialog_interest_progress.xml" value="0.3614583333333333" />
+        <entry key="..\:/Users/choi/AndroidStudioProjects/project_android/app/src/main/res/layout/dialog_map.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/choi/AndroidStudioProjects/project_android/app/src/main/res/layout/dialog_signin.xml" value="0.3614583333333333" />
+        <entry key="..\:/Users/choi/AndroidStudioProjects/project_android/app/src/main/res/layout/fragment_add_todo.xml" value="0.2604166666666667" />
+        <entry key="..\:/Users/choi/AndroidStudioProjects/project_android/app/src/main/res/layout/fragment_app_routine.xml" value="0.3614583333333333" />
+        <entry key="..\:/Users/choi/AndroidStudioProjects/project_android/app/src/main/res/layout/fragment_community.xml" value="0.2994791666666667" />
+        <entry key="..\:/Users/choi/AndroidStudioProjects/project_android/app/src/main/res/layout/fragment_login.xml" value="0.3614583333333333" />
+        <entry key="..\:/Users/choi/AndroidStudioProjects/project_android/app/src/main/res/layout/fragment_main.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/choi/AndroidStudioProjects/project_android/app/src/main/res/layout/fragment_my_room.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/choi/AndroidStudioProjects/project_android/app/src/main/res/layout/fragment_review.xml" value="0.34479166666666666" />
+        <entry key="..\:/Users/choi/AndroidStudioProjects/project_android/app/src/main/res/layout/item_app_info.xml" value="0.35052083333333334" />
+        <entry key="..\:/Users/choi/AndroidStudioProjects/project_android/app/src/main/res/layout/item_app_routine.xml" value="0.3614583333333333" />
+        <entry key="..\:/Users/choi/AndroidStudioProjects/project_android/app/src/main/res/layout/item_date_info.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/choi/AndroidStudioProjects/project_android/app/src/main/res/layout/item_feed.xml" value="0.3614583333333333" />
+        <entry key="..\:/Users/choi/AndroidStudioProjects/project_android/app/src/main/res/layout/item_todo.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/choi/AndroidStudioProjects/project_android/app/src/main/res/layout/item_todo_package.xml" value="0.36614583333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/loginFragment">
+
+    <fragment
+        android:id="@+id/mainFragment"
+        android:name="com.example.realtodoapp.ui.MainFragment"
+        android:label="MainFragment"
+        tools:layout="@layout/fragment_main">
+        <action
+            android:id="@+id/action_mainFragment_to_reviewFragment"
+            app:destination="@id/reviewFragment" />
+        <action
+            android:id="@+id/action_mainFragment_to_communityFragment"
+            app:destination="@id/communityFragment" />
+        <action
+            android:id="@+id/action_mainFragment_to_addTodoFragment"
+            app:destination="@id/addTodoFragment" />
+        <action
+            android:id="@+id/action_mainFragment_to_appRoutineFragment"
+            app:destination="@id/appRoutineFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/reviewFragment"
+        android:name="com.example.realtodoapp.ui.ReviewFragment"
+        android:label="ReviewFragment"
+        tools:layout="@layout/fragment_review"/>
+    <fragment
+        android:id="@+id/communityFragment"
+        android:name="com.example.realtodoapp.ui.CommunityFragment"
+        android:label="CommunityFragment"
+        tools:layout="@layout/fragment_community"/>
+    <fragment
+        android:id="@+id/loginFragment"
+        android:name="com.example.realtodoapp.ui.LoginFragment"
+        android:label="LoginFragment"
+        tools:layout="@layout/fragment_login">
+        <action
+            android:id="@+id/action_loginFragment_to_mainFragment"
+            app:destination="@id/mainFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/addTodoFragment"
+        android:name="com.example.realtodoapp.ui.AddTodoFragment"
+        android:label="addTodoFragment"
+        tools:layout="@layout/fragment_add_todo">
+        <action
+            android:id="@+id/action_addTodoFragment_to_appRoutineFragment"
+            app:destination="@id/appRoutineFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/appRoutineFragment"
+        android:name="com.example.realtodoapp.ui.AppRoutineFragment"
+        android:label="AppRoutineFragment"
+        tools:layout="@layout/fragment_app_routine"/>
+</navigation>
